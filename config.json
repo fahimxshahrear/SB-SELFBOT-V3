@@ -1,0 +1,13 @@
+{
+    "I2C_Rate": 90,
+    "C2I_Rate": 87,
+    "Upi": "UPLOAD YOUR UPI",
+    "Qr": "UPLOAD YOUR QR",
+    "SERVER_Link": "YOUR SERVER LINK",
+    "User_Id": "UPLOAD YOUR USER ID HERE",
+    "LTC_ADDY": "UPLOAD YOUR LTC ADDY",
+    "ltckey": "UPLOAD YOUR LTC KEY",
+    "apikey": "UPLOAD YOUR API KEY",
+    "token": "YOUR DISCORD AC TOKEN",
+    "prefix": "."
+    }
